@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">Associate Professor @ PW (Physics Wallah) | B.Tech in Computer Science | Data Science Enthusiast |</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Doubt Solver faculty @PW **In Data Analysis & Data Science**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis & Data Science**
 
 - 📫 How to reach me **shubham99singh11@gmail.com**
 

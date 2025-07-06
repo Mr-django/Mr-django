@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">Aspiring Data Analyst | B.Tech in Computer Science | Data Science Enthusiast |</h3>
+<h3 align="center">Associate Professor @ PW (Physics Wallah) | B.Tech in Computer Science | Data Science Enthusiast |</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
